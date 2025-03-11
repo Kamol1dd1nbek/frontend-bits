@@ -4,9 +4,10 @@ Frontend Bits is a collection of small, independent frontend projects. Each proj
 
 ## 📂 Projects  
 
-| #  | Project Name  | Description  | Live Demo  |
-|----|-------------|-------------|------------|
-| 1  | Profile Card UI Design |  | [View](https://super-frangollo-6f3dd9.netlify.app/) |
+| #  | Project Name  | Live Demo  |
+|----|-------------|------------|
+| 1  | Profile Card UI Design | [View](https://fbit-profile-card.netlify.app/) |
+| 2  | Flipping Card UI Design | [View](https://fbit-flipping-card.netlify.app/) |
  
 
 ---
