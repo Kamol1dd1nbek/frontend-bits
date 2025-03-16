@@ -10,6 +10,7 @@ Frontend Bits is a collection of small, independent frontend projects. Each proj
 | 2  | Flipping Card UI Design | [View](https://fbit-flipping-card.netlify.app/) |
 | 3  | Credit Card UI Design | [View](https://fbit-credit-card.netlify.app/) |
 | 4  | Sidebar with HTML and CSS | [View](https://fbit-sidebar.netlify.app/) |
+| 5  | Login Form  | [View](https://fbit-login-form.netlify.app/) |
  
 
 ---
