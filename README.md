@@ -16,6 +16,7 @@ Frontend Bits is a collection of small, independent frontend projects. Each proj
 | 8  | Simple website  | [View](https://fbit-slider.netlify.app/) |
 | 9  | Navigation Menu Hover Effect  | [View](https://fbit-navigation-menu.netlify.app/) |
 | 10  | Pagination | [View](https://fbit-pagination.netlify.app/) |
+| 11  | Animated Search Bar | [View](https://fbit-animated-search-bar.netlify.app/) |
  
 
 ---
